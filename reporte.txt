@@ -1,0 +1,12 @@
+cual es el punto mas debil de pgp? la passphrase ya que si se compromete se puede usar esa llave
+
+cuando es conveniente utilizar cifrado simetrico? cuando el entorno es seguro es decir hay pocos participantes y la forma de compartir la clave es segura
+
+en que consiste el ciclo de vida del desarrollo de sofware seguro? requisitos:
+planificar: definir metas y reglas a cumplir
+analisis y modelo de amenazas: estudiar los riesgos
+diseño: crear una arquitectura segura
+desarrollo: escribrir codigo
+pruebas: analisar el codigo y su funcionamiento
+implementacion: lanzar el programa
+mantenimiento: actualizar el programa y corregir errores
